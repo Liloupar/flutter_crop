@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
   vector_math: ^2.1.2
-  image: ^4.0.15
+  image: ^4.3.0
 
 
 dev_dependencies:
